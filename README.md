@@ -7,9 +7,6 @@
 ## About the website
 GOODBYE JUNK FOOD HELLO SUPER HEALTHY MEALS.
 GET FOOD FAST — NOT FAST FOOD
-
-
-
 ## Technologies Used
 - HTML and CSS - Base languages used to create the website
 - jQuery
@@ -26,3 +23,20 @@ GET FOOD FAST — NOT FAST FOOD
 
 ## Deployment
 - The website was published using [GitHub pages](https://abdoelsaih.github.io/Healthy-Food-Restaurant-Project/index.html)
+
+![](screenshot/Capture.PNG)
+
+![](screenshot/Capture1.PNG)
+
+![](screenshot/Capture2.PNG)
+
+![](screenshot/Capture3.PNG)
+
+![](screenshot/Capture4.PNG)
+
+![](screenshot/Capture5.PNG)
+
+![](screenshot/Capture6.PNG)
+
+![](screenshot/Capture7.PNG)
+
